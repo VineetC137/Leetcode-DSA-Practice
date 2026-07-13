@@ -73,4 +73,8 @@ Want to Learn different Skills :-)
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/VineetC137/Leetcode-DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/VineetC137/Leetcode-DSA-Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
